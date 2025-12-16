@@ -8,4 +8,4 @@ Using [this repo](https://github.com/Digital-Humanities-Toolkit/timeline-builder
 
 | Criteria | Exemplary                                         | Adequate                                | Needs Improvement                                                |
 | -------- | ------------------------------------------------- | --------------------------------------- | ---------------------------------------------------------------- |
-|          | A deployed timeline is presented as a GitHub page | The code is incomplete and not deployed | The timeline is incomplete, not well researched and not deployed |
+|          | [x] A deployed timeline is presented as a GitHub page | The code is incomplete and not deployed | The timeline is incomplete, not well researched and not deployed |
