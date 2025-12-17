@@ -61,7 +61,7 @@
 * ## Bài 2: History of ML của khóa ML for Beginners
     * ## Nắm nội dung của bài
     * ## Hoàn thành assignment: Tạo timeline  
-    * ## Assignment Overview
+    * ## Assignment overview
         Timeline of the Life and Career of **Alan Turing** – The Father of Artificial Intelligence
         * Demo: [https://ducanh-2003.github.io/timeline-builder/](https://ducanh-2003.github.io/timeline-builder/)
         * Source code: [https://github.com/Ducanh-2003/timeline-builder](https://github.com/Ducanh-2003/timeline-builder)
@@ -70,6 +70,20 @@
     | Criteria | Exemplary                                         | Adequate                                | Needs Improvement                                                |
     | -------- | ------------------------------------------------- | --------------------------------------- | ---------------------------------------------------------------- |
     |          |[x] A deployed timeline is presented as a GitHub page | The code is incomplete and not deployed | The timeline is incomplete, not well researched and not deployed |
+
+> ## ***16-17/12/2025***
+* ## Bài 3: Fairness của khóa học ML for Beginners
+    * ## Nắm nội dung lý thuyết của bài
+    * ## Hoàn thành assigment: Chạy notebook, viết paper rút ra kết luận về notebook đó
+    * ## Assignment overview
+        [Notebook binary classification](https://github.com/microsoft/responsible-ai-toolbox/blob/main/notebooks/responsibleaidashboard/tabular/responsibleaidashboard-housing-classification-model-debugging.ipynb)
+
+        [Paper](../ML-For-Beginners/1-Introduction/3-fairness/ASSIGNMENT_PAPER.md)
+    ## Rubric
+    | Criteria | Exemplary | Adequate | Needs Improvement |
+    | -------- | --------- | -------- | ----------------- |
+    |          | [x] A paper or powerpoint presentation is presented discussing Fairlearn's systems, the notebook that was run, and the conclusions drawn from running it        |   A paper is presented without conclusions       |  No paper is presented                 |
+
 
 ---
 

@@ -8,4 +8,8 @@ In this lesson you learned about the Responsible AI Toolbox, an "open-source, co
 
 | Criteria | Exemplary | Adequate | Needs Improvement |
 | -------- | --------- | -------- | ----------------- |
-|          |  A paper or powerpoint presentation is presented discussing Fairlearn's systems, the notebook that was run, and the conclusions drawn from running it        |   A paper is presented without conclusions       |  No paper is presented                 |
+|          | [x] A paper or powerpoint presentation is presented discussing Fairlearn's systems, the notebook that was run, and the conclusions drawn from running it        |   A paper is presented without conclusions       |  No paper is presented                 |
+
+
+## Paper link
+[Paper](ASSIGNMENT_PAPER.md)
