@@ -72,6 +72,7 @@
     |          |[x] A deployed timeline is presented as a GitHub page | The code is incomplete and not deployed | The timeline is incomplete, not well researched and not deployed |
 
 > ## ***16-17/12/2025***
+## **Những gì đã học và làm được**
 * ## Bài 3: Fairness của khóa học ML for Beginners
     * ## Nắm nội dung lý thuyết của bài
     * ## Hoàn thành assigment: Chạy notebook, viết paper rút ra kết luận về notebook đó
@@ -84,6 +85,21 @@
     | -------- | --------- | -------- | ----------------- |
     |          | [x] A paper or powerpoint presentation is presented discussing Fairlearn's systems, the notebook that was run, and the conclusions drawn from running it        |   A paper is presented without conclusions       |  No paper is presented                 |
 
+> ## ***18/12/2025***
+* ## Bài 4: Techniques of ML của khóa học ML for Beginners
+    * ## Nắm nội dung lý thuyết của bài
+    * ## Không hoàn thành assignment
+    ## Rubric
+
+    | Criteria | Exemplary                                                                            | Adequate                                                           | Needs Improvement     |
+    | -------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------ | --------------------- |
+    |          | An essay of the correct length, with attributed sources, is presented as a .doc file | The essay is poorly attributed or shorter than the required length |[x] No essay is presented |
+
+> ## ***19/12/2025***
+## Những gì đã học và làm được
+* ## Mindmaps tổng kết tuần 1: ![mindmap](/ML-For-Beginners/images/minmaps.png)
+* ## Luyện code với thư viện Numpy: từ bài 1 tới 30 
+* ## Luyện code với thư viện Pandas: bài 1 - Getting & Knowing your data
 
 ---
 

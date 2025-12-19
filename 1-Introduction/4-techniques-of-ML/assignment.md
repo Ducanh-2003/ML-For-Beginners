@@ -8,4 +8,4 @@ In your company, in a user group, or among your friends or fellow students, talk
 
 | Criteria | Exemplary                                                                            | Adequate                                                           | Needs Improvement     |
 | -------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------ | --------------------- |
-|          | An essay of the correct length, with attributed sources, is presented as a .doc file | The essay is poorly attributed or shorter than the required length | No essay is presented |
+|          | An essay of the correct length, with attributed sources, is presented as a .doc file | The essay is poorly attributed or shorter than the required length |[x] No essay is presented |
