@@ -79,7 +79,7 @@
     * ## Assignment overview
         [Notebook binary classification](https://github.com/microsoft/responsible-ai-toolbox/blob/main/notebooks/responsibleaidashboard/tabular/responsibleaidashboard-housing-classification-model-debugging.ipynb)
 
-        [Paper](/ML-For-Beginners/1-Introduction/3-fairness/ASSIGNMENT_PAPER.md)
+        [Paper](1-Introduction/3-fairness/ASSIGNMENT_PAPER.md)
     ## Rubric
     | Criteria | Exemplary | Adequate | Needs Improvement |
     | -------- | --------- | -------- | ----------------- |
