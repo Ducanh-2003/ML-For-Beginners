@@ -97,7 +97,7 @@
 
 > ## ***19/12/2025***
 ## Những gì đã học và làm được
-* ## Mindmaps tổng kết tuần 1: ![mindmap](/ML-For-Beginners/images/minmaps.png)
+* ## Mindmaps tổng kết tuần 1: ![mindmap](images/minmaps.png)
 * ## Luyện code với thư viện Numpy: từ bài 1 tới 30 
 * ## Luyện code với thư viện Pandas: bài 1 - Getting & Knowing your data
 
