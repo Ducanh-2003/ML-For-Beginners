@@ -101,6 +101,8 @@
 * ## Luyện code với thư viện Numpy: từ bài 1 tới 30 
 * ## Luyện code với thư viện Pandas: bài 1 - Getting & Knowing your data
 
+# **Tuần 6 (22/12/2025 - 26/12/2025)**
+
 ---
 
 ## Dataset: https://universe.roboflow.com/roboflow-100/liver-disease

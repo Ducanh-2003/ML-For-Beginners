@@ -10,4 +10,4 @@ In your own words, describe how to create a Regression model that would plot the
 
 | Criteria                       | Exemplary                           | Adequate                      | Needs Improvement          |
 | ------------------------------ | ----------------------------------- | ----------------------------- | -------------------------- |
-| Submit a descriptive paragraph | Well-written paragraph is submitted | A few sentences are submitted | No description is supplied |
+| Submit a descriptive paragraph | [x] Well-written paragraph is submitted | A few sentences are submitted | No description is supplied |
