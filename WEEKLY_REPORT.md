@@ -55,10 +55,10 @@
 > ## ***15/12/2025***
 
 ## **Những gì đã học và làm được**
-* ## Bài 1: Introduction của khóa ML for Beginners
+* ## Bài 1: Introduction_1-intro-to-ml của khóa ML for Beginners
     * ## Nắm nội dung của bài
     * ## Hoàn thành assignment: Setting environment
-* ## Bài 2: History of ML của khóa ML for Beginners
+* ## Bài 2: Introduction_2-history-of-ML của khóa ML for Beginners
     * ## Nắm nội dung của bài
     * ## Hoàn thành assignment: Tạo timeline  
     * ## Assignment overview
@@ -73,7 +73,7 @@
 
 > ## ***16-17/12/2025***
 ## **Những gì đã học và làm được**
-* ## Bài 3: Fairness của khóa học ML for Beginners
+* ## Bài 3: Introduction_3-fairness của khóa học ML for Beginners
     * ## Nắm nội dung lý thuyết của bài
     * ## Hoàn thành assigment: Chạy notebook, viết paper rút ra kết luận về notebook đó
     * ## Assignment overview
@@ -86,7 +86,8 @@
     |          | [x] A paper or powerpoint presentation is presented discussing Fairlearn's systems, the notebook that was run, and the conclusions drawn from running it        |   A paper is presented without conclusions       |  No paper is presented                 |
 
 > ## ***18/12/2025***
-* ## Bài 4: Techniques of ML của khóa học ML for Beginners
+## Những gì đã học và làm được
+* ## Bài 4: Introduction_4-techniques-of-ML của khóa học ML for Beginners
     * ## Nắm nội dung lý thuyết của bài
     * ## Không hoàn thành assignment
     ## Rubric
@@ -102,6 +103,31 @@
 * ## Luyện code với thư viện Pandas: bài 1 - Getting & Knowing your data
 
 # **Tuần 6 (22/12/2025 - 26/12/2025)**
+
+> ## ***22/12/2025***
+## Những gì đã học và làm được
+* ## Bài 5: Regression_1-Tools của khóa học ML for Beginners
+  * ## Nắm nội dung lý thuyết của bài 
+  * ## Hoàn thành assignment: viết 1 paragraph các bước tạo model LinearRegression và vẽ biểu đồ
+  * ## Assignment overview
+    [Assignment paragraph](2-Regression/1-Tools/ASSIGNMENT_PARAGRAPH.md)
+  ## Rubric
+  | Criteria                       | Exemplary                           | Adequate                      | Needs Improvement          |
+  | ------------------------------ | ----------------------------------- | ----------------------------- | -------------------------- |
+  | Submit a descriptive paragraph | [x] Well-written paragraph is submitted | A few sentences are submitted | No description is supplied |
+
+> ## ***23/12/2025***
+## Những gì đã học và làm được
+* ## Bài 6: Regression_2-Data của khóa học ML for Beginners
+    * ## Nắm nội dung lý thuyết của bài
+    * ## Hoàn thành assignment: Chuẩn hóa dữ liệu rồi tạo  biểu đồ với 2 thư viện matplotlib và seaborn để so sánh giữa 2 lib
+    * ## Assignment overview
+        [Exploring Visualizations notebook](2-Regression/2-Data/assignment_notebook.ipynb)
+    ## Rubric
+    | Criteria | Exemplary | Adequate | Needs Improvement |
+    | -------- | --------- | -------- | ----------------- |
+    |          |[x] A notebook is submitted with two explorations/visualizations         |   A notebook is submitted with one explorations/visualizations       |  A notebook is not submitted                 |
+
 
 ---
 
