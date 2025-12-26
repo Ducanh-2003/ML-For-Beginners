@@ -128,6 +128,21 @@
     | -------- | --------- | -------- | ----------------- |
     |          |[x] A notebook is submitted with two explorations/visualizations         |   A notebook is submitted with one explorations/visualizations       |  A notebook is not submitted                 |
 
+> ## ***24-25/12/2025***
+## Những gì đã học và làm được
+* ## Bài 7: Regression_3-Linear của khóa học ML for Beginners
+    * ## Nắm nội dung lý thuyết của bài
+    * ## Hoàn thành assignment: Build regression model sử dụng cả 2 model Linear và Polynomial Regression so sánh kết quả trên cùng 1 câu hỏi
+    * ## Mindmap: ![mindmap](images/mindmap_linear.png)
+    * ## Assignment overview:
+        [Assignment notebook](2-Regression/3-Linear/assignment_notebook.ipynb)<br>
+        Dataset: [https://raw.githubusercontent.com/justmarkham/DAT8/master/data/u.user](https://raw.githubusercontent.com/justmarkham/DAT8/master/data/u.user)
+* ## Rubric
+
+    | Criteria | Exemplary                                                    | Adequate                   | Needs Improvement               |
+    | -------- | ------------------------------------------------------------ | -------------------------- | ------------------------------- |
+    |          | [x] presents a complete notebook with a well-documented solution | the solution is incomplete | the solution is flawed or buggy |
+
 
 ---
 
